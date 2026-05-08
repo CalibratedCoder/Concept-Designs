@@ -1,0 +1,32 @@
+----------------------------------------------------------COMPATABLE OPERATING SYSTEMS----------------------------------------------------------
+* Windows 10
+* Windows 11
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------USED ENCRYPTION ALGORTHM----------------------------------------------------------
+AES-265 Encryption
+------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------CHROMIUM-BROWSER-PROTECT MAIN SPECS----------------------------------------------------------
+FILE SIZE RANGE: 1MB - 50MB (cannot exceed 50)
+PROGRAMMING LANGUAGE: C++
+FILE TYPE: .exe
+FILE NAME: cbp_main.exe
+SERVICE DETAILS (PERSISTENCE): 
+    * SERVICE-NAME: CBP-SERVICE
+    * DISPLAY-NAME Chromium Browse Protect SERVICE
+    * PATH: C:\Program Files\ChromiumBrowseProtect\cbp_main.exe
+    * STARTUP TYPE: Automatic
+    * PRIVLEDGES: LocalSystem
+
+USER LANGUAGE: English
+CPU USAGE AT ANY GIVEN TIME: 0% - 5% (cannot exeed 5% cpu usage) 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------CHROMIUM-BROWSER-PROTECT WATCH SPECS----------------------------------------------------------
+FILE SIZE RANGE: 1MB - 10MB (cannot exceed 10)
+PROGRAMMING LANGUAGE: C++
+FILE TYPE: .exe
+FILE NAME: cbp_watch.exe
+USER LANGUAGE: English
+CPU USAGE AT ANY GIVEN TIME: 0% - 10% (cannot exeed 10% cpu usage) 
+------------------------------------------------------------------------------------------------------------------------------------------------
