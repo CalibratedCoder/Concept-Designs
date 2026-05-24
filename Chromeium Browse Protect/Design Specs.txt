@@ -19,7 +19,6 @@ SERVICE DETAILS (PERSISTENCE):
     * PRIVLEDGES: LocalSystem
 
 USER LANGUAGE: English
-CPU USAGE AT ANY GIVEN TIME: 0% - 5% (cannot exeed 5% cpu usage) 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------CHROMIUM-BROWSER-PROTECT WATCH SPECS----------------------------------------------------------
@@ -28,5 +27,4 @@ PROGRAMMING LANGUAGE: C++
 FILE TYPE: .exe
 FILE NAME: cbp_watch.exe
 USER LANGUAGE: English
-CPU USAGE AT ANY GIVEN TIME: 0% - 10% (cannot exeed 10% cpu usage) 
 ------------------------------------------------------------------------------------------------------------------------------------------------
